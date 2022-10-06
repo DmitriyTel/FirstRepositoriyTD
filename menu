@@ -4,3 +4,5 @@ a:=2
 b:=4
 If a<=b 
 printf ('a<=b')
+else
+printf ('a>=b')
